@@ -10,8 +10,10 @@ I'm Mohan Sistla and I'm an Aspiring Data Scientist. I worked as a software engi
 
 Apart from that I take great interest in the area of Ecomonetrics and its application in drawing causal inferences between 2 experiments. 
 
-Feel free to connect with me on Linkedin as well.
-https://www.linkedin.com/in/s-mohan-vaishnav-phani-774717135/
+Feel free to connect with on :
+* Linkedin : https://www.linkedin.com/in/s-mohan-vaishnav-phani/
+* Gmail : mohanvaishnav98@gmail.com
+
 
 
 
