@@ -1,6 +1,6 @@
 # Hello All
 
-I'm Mohan Sistla and I'm an Aspiring Data Scientist. I worked as a software engineer for 2 years prior to pursuing my Masters in Analytics from Royal Melbourne Institute of Technology. I'm really passionate about leveraging data to draw key insights which has great potential to drive businesses to great heights. Thus, I have been able to hone my skills in the following areas 
+I'm Mohan Sistla and I'm an Aspiring Data Analyst. I worked as a software engineer for 2 years prior to pursuing my Masters in Analytics from Royal Melbourne Institute of Technology. I'm really passionate about leveraging data to draw key insights which has great potential to drive businesses to great heights. Thus, I have been able to hone my skills in the following areas 
 
 * Technical Skills: Statistics, Machine Learning, Time Series, Exploratory Data Analysis, Data Visualization, and Game Theory
 * Programming Skills: Python, SQL, R, SAS, and java
